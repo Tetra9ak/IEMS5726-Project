@@ -1,7 +1,5 @@
 ## README FOR IEMS 5726A Project ##
 
-### DU WENJIE 1155196334 ###
-
 For this project folder with files inside.
 
 data_analysis1.py is for SVM model
